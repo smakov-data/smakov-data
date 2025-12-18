@@ -16,17 +16,17 @@ I build data platforms that transform raw operational data into analytics-ready 
 ---
 
 ### 🔧 Tech Stack
-- **Databricks**, Apache Spark (SQL, PySpark)
-- **Delta Lake**, Lakehouse (Bronze–Silver–Gold)
-- **SQL**, Python
-- **AWS S3**, Azure
+- Databricks, Apache Spark (SQL, PySpark)
+- Delta Lake, Lakehouse (Bronze–Silver–Gold)
+- SQL, Python
+- Azure, AWS
 - Data Modeling, ETL/ELT, Analytics Engineering
 
 ---
 
 ### 📌 Featured Projects
 
-#### 🟢 FMCG Databricks Lakehouse
+#### 🟢 1. FMCG Databricks Lakehouse
 End-to-end Databricks Lakehouse project using Delta Lake and Medallion Architecture.
 
 **Key highlights:**
@@ -39,7 +39,7 @@ End-to-end Databricks Lakehouse project using Delta Lake and Medallion Architect
 
 ---
 
-#### 🟢 SQL Retail Data Warehouse
+#### 🟢 2. SQL Retail Data Warehouse
 Classic SQL-centric data warehouse project focused on analytics and reporting.
 
 **Key highlights:**
