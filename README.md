@@ -20,7 +20,7 @@ My strength is combining deep business understanding with hands-on data engineer
 - Databricks, Apache Spark (SQL, PySpark)
 - Delta Lake, Lakehouse (Bronze–Silver–Gold)
 - SQL, Python
-- Azure, AWS
+- Azure Databricks, Azure Data Factory, Azure Data Lake (ADLS Gen2), AWS S3
 - Data Modeling, ETL/ELT, Analytics Engineering
 
 ---
