@@ -1,16 +1,65 @@
-## Hi there 👋
+## Hi, I'm Ruslan Smakov 👋
 
-<!--
-**smakov-data/smakov-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer / Analytics Engineer with a strong business and consulting background.
 
-Here are some ideas to get you started:
+I build data platforms that transform raw operational data into analytics-ready datasets for BI, reporting, and decision-making. My strength is combining deep business understanding with hands-on data engineering implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔹 What I Do
+- Design and implement **Lakehouse and Data Warehouse architectures**
+- Build **ETL / ELT pipelines** with full and incremental loads
+- Model **fact & dimension tables** (star schema, Gold layer)
+- Deliver **BI-ready datasets** for analytics and reporting
+- Translate business requirements into scalable data solutions
+
+---
+
+### 🔧 Tech Stack
+- **Databricks**, Apache Spark (SQL, PySpark)
+- **Delta Lake**, Lakehouse (Bronze–Silver–Gold)
+- **SQL**, Python
+- **AWS S3**, Azure
+- Data Modeling, ETL/ELT, Analytics Engineering
+
+---
+
+### 📌 Featured Projects
+
+#### 🟢 FMCG Databricks Lakehouse
+End-to-end Databricks Lakehouse project using Delta Lake and Medallion Architecture.
+
+**Key highlights:**
+- Ingestion from **AWS S3 (CSV sources)**
+- Full and incremental loads
+- Dimensional modeling (facts & dimensions)
+- Gold-layer analytical views for BI consumption
+
+👉 https://github.com/smakov-data/fmcg-databricks-lakehouse
+
+---
+
+#### 🟢 SQL Retail Data Warehouse
+Classic SQL-centric data warehouse project focused on analytics and reporting.
+
+**Key highlights:**
+- Star schema design
+- Fact & dimension modeling
+- Business-focused analytical queries
+- Clean SQL transformations
+
+👉 https://github.com/smakov-data/sql-retail-dwh
+
+---
+
+### 💼 Background
+- 10+ years in **consulting and enterprise solutions**
+- Led analytics and IoT platforms for **300+ retail locations**
+- Experience bridging **business, stakeholders, and technical teams**
+- Strong communication and problem-solving skills
+
+---
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/ruslan-smakov-data/
+- Location: Miami, FL
