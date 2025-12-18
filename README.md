@@ -25,7 +25,7 @@ My strength is combining deep business understanding with hands-on data engineer
 
 ---
 
-### 📌 Featured Projects
+### 📌 Projects
 
 #### 🟢 1. FMCG Databricks Lakehouse
 End-to-end Databricks Lakehouse project using Delta Lake and Medallion Architecture.
