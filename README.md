@@ -2,17 +2,19 @@
 
 Analytics Manager / Analytics Lead with a strong business and consulting background
 
-I lead and deliver analytics and data platforms that transform raw operational data into decision-ready analytics for BI, reporting, and executive insights.
+
+I design and deliver analytics and data platforms that transform raw operational data into decision-ready analytics for BI, reporting, and executive insights.
 My strength is combining deep business understanding, analytics ownership, and hands-on data platform expertise to drive measurable business outcomes.
 
 ---
 
 ### 🔹 What I Do
-- Own end-to-end analytics and data platform delivery
+- Design and implement end-to-end analytics and data platforms
 - Design Lakehouse and Data Warehouse architectures aligned with business and BI use cases
 - Define KPI frameworks, analytics models, and reporting layers
 - Translate business requirements into scalable analytics solutions
 - Collaborate with engineers, architects, and stakeholders to ensure high-quality delivery
+- Build SQL-centric data models, ETL pipelines, and analytics-ready datasets using Databricks and cloud data platforms
 
 ---
 
