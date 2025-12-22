@@ -1,20 +1,20 @@
 ## Hi, I'm Ruslan Smakov 👋
 
-Analytics Manager / Analytics Lead with a strong business and consulting background
+Technology & Analytics Consultant | Analytics Manager / Lead
 
 
-I design and deliver analytics and data platforms that transform raw operational data into decision-ready analytics for BI, reporting, and executive insights.
-My strength is combining deep business understanding, analytics ownership, and hands-on data platform expertise to drive measurable business outcomes.
+I design and deliver analytics and data platforms that transform raw operational data into decision-ready insights for BI, reporting, and executive decision-making.
+My strength is combining business understanding, analytics ownership, and hands-on data platform expertise to drive measurable outcomes.
 
 ---
 
 ### 🔹 What I Do
-- Design and implement end-to-end analytics and data platforms
-- Design Lakehouse and Data Warehouse architectures aligned with business and BI use cases
+- Design and deliver end-to-end analytics and data platforms
+- Design Lakehouse and Data Warehouse architectures aligned with BI and business use cases
 - Define KPI frameworks, analytics models, and reporting layers
 - Translate business requirements into scalable analytics solutions
 - Collaborate with engineers, architects, and stakeholders to ensure high-quality delivery
-- Build SQL-centric data models, ETL pipelines, and analytics-ready datasets using Databricks and cloud data platforms
+- Oversee SQL-centric data models and analytics-ready datasets built on Databricks and cloud platforms
 
 ---
 
@@ -57,7 +57,7 @@ SQL-centric analytics warehouse focused on BI and management reporting.
 - 10+ years in enterprise consulting and analytics delivery
 - Led analytics and IoT platforms across 300+ retail locations
 - Strong experience bridging business, stakeholders, and technical teams
-- Public speaking, publications, and teaching experience in analytics and systems
+- Public speaking, publications, and teaching experience in analytics, digital platforms, and project management
 
 ---
 
