@@ -1,4 +1,5 @@
-Hi, I’m Ruslan Smakov 
+Hi, I’m Ruslan Smakov
+
 Data Engineer with a strong business and consulting background.
 
 I build data platforms that transform raw operational data into analytics-ready datasets for BI, reporting, and decision-making. 
