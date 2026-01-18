@@ -1,52 +1,46 @@
 Hi, I’m Ruslan Smakov
 
-Data Engineer with a strong business and consulting background.
+Senior Consultant in Digital Transformation & Analytics Platforms with a strong data engineering background.
 
-I build data platforms that transform raw operational data into analytics-ready datasets for BI, reporting, and decision-making. 
-My strength is combining deep business understanding with hands-on data engineering implementation.
+I design and deliver analytics platforms that turn raw operational data into KPI-ready datasets for executive reporting, BI, and decision-making. My core strength is bridging business strategy, stakeholder needs, and hands-on data platform implementation.
 
-🔹 What I Do
-- Design and implement **Lakehouse and Data Warehouse architectures**
-- Build **ETL / ELT pipelines** with full and incremental loads
-- Model **fact & dimension tables** (star schema, Gold layer)
-- Deliver **BI-ready datasets** for analytics and reporting
-- Translate business requirements into scalable data solutions
+What I Do
 
-### 📌 Projects
+Design and deliver Lakehouse and Data Warehouse architectures aligned with business goals
+Translate business requirements into analytics architectures and KPI-ready datasets
+Build ETL / ELT pipelines with full and incremental loads
+Design dimensional data models (facts & dimensions, star schema)
+Enable BI dashboards, executive reporting, and performance monitoring
+Ensure data quality, validation, and metric consistency
 
-#### 🟢 1. FMCG Databricks Lakehouse
-End-to-end Databricks Lakehouse project using Delta Lake and Medallion Architecture.
+Selected Projects
 
-**Key highlights:**
-- Ingestion from **AWS S3 (CSV sources)**
-- Full and incremental loads
+🟢 FMCG Databricks Lakehouse  
+End-to-end analytics platform designed to support KPI monitoring, BI dashboards, and executive reporting.
+
+Highlights:
+- Lakehouse architecture (Delta Lake, Bronze–Silver–Gold)
+- Ingestion from AWS S3 (structured sources)
+- Full and incremental data loads
 - Dimensional modeling (facts & dimensions)
 - Gold-layer analytical views for BI consumption
 
 https://github.com/smakov-data/fmcg-databricks-lakehouse
 
+🟢 SQL Retail Data Warehouse  
+SQL-centric analytics data warehouse designed for sales analytics and reporting use cases.
 
----
-
-
-#### 🟢 2. SQL Retail Data Warehouse
-Classic SQL-centric data warehouse project focused on analytics and reporting.
-
-**Key highlights:**
-- Star schema design
+Highlights:
+- Star schema design (Sales Data Mart)
 - Fact & dimension modeling
-- Business-focused analytical queries
-- Clean SQL transformations
+- Business-aligned analytical queries
+- BI-ready datasets for reporting and ad-hoc analysis
 
 https://github.com/smakov-data/sql-retail-dwh
 
+💼 Professional Background
 
----
-
-### 💼 Background
-- 10+ years in **consulting and enterprise solutions**
-- Led analytics and IoT platforms for **300+ retail locations**
-- Experience bridging **business, stakeholders, and technical teams**
-- Strong communication and problem-solving skills
-
----
+10+ years in technology consulting and enterprise solutions
+Led analytics and IoT platforms across 300+ retail locations
+Acted as a trusted advisor to business and executive stakeholders
+Strong focus on business value, KPIs, and decision support
