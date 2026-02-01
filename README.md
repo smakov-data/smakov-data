@@ -1,17 +1,15 @@
 Hi, I’m Ruslan Smakov
 
-Senior Consultant in Digital Transformation & Analytics Platforms with a strong data engineering background.
-
-I design and deliver analytics platforms that turn raw operational data into KPI-ready datasets for executive reporting, BI, and decision-making. My core strength is bridging business strategy, stakeholder needs, and hands-on data platform implementation.
+Data Engineer focused on ETL pipelines, data modeling, and analytics-ready data platforms.
+Hands-on experience building and supporting SQL Data Warehouses and Databricks Lakehouse solutions (Bronze–Silver–Gold), with a focus on data validation, transformation logic, and downstream analytics support.
 
 What I Do
 
-Design and deliver Lakehouse and Data Warehouse architectures aligned with business goals
-Translate business requirements into analytics architectures and KPI-ready datasets
-Build ETL / ELT pipelines with full and incremental loads
-Design dimensional data models (facts & dimensions, star schema)
-Enable BI dashboards, executive reporting, and performance monitoring
-Ensure data quality, validation, and metric consistency
+Build and support ETL / ELT pipelines with full and incremental loads  
+Develop and validate SQL-based data warehouse models (facts & dimensions, star schema)  
+Implement Databricks Lakehouse pipelines using Bronze–Silver–Gold architecture  
+Perform data validation, reconciliation, and root cause analysis (RCA)  
+Prepare analytics-ready datasets for BI and reporting
 
 Selected Projects
 
@@ -40,7 +38,5 @@ https://github.com/smakov-data/sql-retail-dwh
 
 💼 Professional Background
 
-10+ years in technology consulting and enterprise solutions
-Led analytics and IoT platforms across 300+ retail locations
-Acted as a trusted advisor to business and executive stakeholders
-Strong focus on business value, KPIs, and decision support
+Background includes supporting enterprise analytics and data platforms across large-scale retail environments, working closely with data engineers on ingestion pipelines, data models, and data quality validation for reporting and analytics.
+
