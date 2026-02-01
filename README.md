@@ -5,11 +5,11 @@ Hands-on experience building SQL Data Warehouses and Databricks Lakehouse soluti
 
 What I Do
 
-Develop and validate SQL-based data warehouse models (facts & dimensions, star schema)
-Prepare analytics-ready datasets for BI and reporting
-Perform data validation, reconciliation, and root cause analysis (RCA)
-Implement Databricks Lakehouse pipelines using Bronze–Silver–Gold architecture
-Build and support ETL / ELT pipelines with full and incremental loads  
+- Develop and validate SQL-based data warehouse models (facts & dimensions, star schema)
+- Prepare analytics-ready datasets for BI and reporting
+- Perform data validation, reconciliation, and root cause analysis (RCA)
+- Implement Databricks Lakehouse pipelines using Bronze–Silver–Gold architecture
+- Build and support ETL / ELT pipelines with full and incremental loads  
 
 Selected Projects
 
