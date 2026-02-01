@@ -1,15 +1,15 @@
 Hi, I’m Ruslan Smakov
 
-Data Engineer focused on ETL pipelines, data modeling, and analytics-ready data platforms.
-Hands-on experience building and supporting SQL Data Warehouses and Databricks Lakehouse solutions (Bronze–Silver–Gold), with a focus on data validation, transformation logic, and downstream analytics support.
+Analytics / BI Engineer focused on SQL, data modeling, and analytics-ready data platforms.
+Hands-on experience building SQL Data Warehouses and Databricks Lakehouse solutions (Bronze–Silver–Gold) with a strong focus on data validation, metrics, and BI consumption.
 
 What I Do
 
-Build and support ETL / ELT pipelines with full and incremental loads  
-Develop and validate SQL-based data warehouse models (facts & dimensions, star schema)  
-Implement Databricks Lakehouse pipelines using Bronze–Silver–Gold architecture  
-Perform data validation, reconciliation, and root cause analysis (RCA)  
+Develop and validate SQL-based data warehouse models (facts & dimensions, star schema)
 Prepare analytics-ready datasets for BI and reporting
+Perform data validation, reconciliation, and root cause analysis (RCA)
+Implement Databricks Lakehouse pipelines using Bronze–Silver–Gold architecture
+Build and support ETL / ELT pipelines with full and incremental loads  
 
 Selected Projects
 
