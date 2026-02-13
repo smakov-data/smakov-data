@@ -1,14 +1,26 @@
 Hi, I’m Ruslan Smakov
 
-Analytics / BI Engineer focused on SQL, data modeling, and analytics-ready data platforms. Hands-on experience building analytics-focused SQL Data Warehouses and Databricks Lakehouse solutions (Bronze–Silver–Gold) for BI and reporting use cases, with a strong focus on data validation, metrics, and BI consumption.
+Analytics Consultant with 10+ years of experience delivering business-facing analytics and data enablement initiatives across enterprise environments.
 
-What I Do
+I specialize in translating complex business requirements into structured KPI frameworks, scalable data models, and executive-ready reporting layers. My focus is not just building datasets — but designing analytics environments that drive measurable operational impact.
 
-- Develop and validate SQL-based data warehouse models (facts & dimensions, star schema)
-- Prepare analytics-ready datasets for BI and reporting
-- Perform data validation, reconciliation, and analytical root cause analysis
-- Implement Databricks Lakehouse pipelines using Bronze–Silver–Gold architecture
-- Build analytics data pipelines with full and incremental loads to support BI and reporting
+Core Expertise:
+• Business Intelligence & KPI Strategy  
+• SQL-Centric Data Warehousing (Star Schema, Fact & Dimension Modeling)  
+• Reporting Layer Architecture & Metric Standardization  
+• Databricks Lakehouse (Bronze–Silver–Gold)  
+• Data Validation, Reconciliation & Metric Governance  
+
+What I Deliver:
+
+• Design of structured KPI frameworks aligned with business objectives  
+• Development of analytics-ready data marts for BI and executive reporting  
+• Implementation of SQL-driven warehouse models supporting operational analytics  
+• Construction of Bronze–Silver–Gold Lakehouse pipelines for BI consumption  
+• Data quality controls ensuring metric consistency and reporting reliability  
+• Alignment between business stakeholders and technical data teams  
+
+I build analytics systems that connect business strategy with reliable, production-ready data foundations.
 
 Selected Projects
 
