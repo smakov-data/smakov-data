@@ -24,6 +24,21 @@ I build analytics systems that connect business strategy with reliable, producti
 
 Selected Projects
 
+🟢 AI Dispatch Decision System
+
+Applied AI system that simulates and monitors a pharmacy delivery network and produces operational dispatch decisions based on system state and risk evaluation.
+
+Highlights:
+
+• Synthetic delivery network simulation  
+• Operational metrics and KPI monitoring  
+• System state vector (CEI, CLI, NODI, WBI)  
+• Risk scoring model for operational overload detection  
+• Dispatch decision engine generating operational recommendations  
+• Interactive monitoring dashboard (Streamlit)
+
+https://github.com/smakov-data/ai-pharmacy-dispatch-system
+
 🟢 FMCG Databricks Lakehouse  
 End-to-end analytics platform designed to support KPI monitoring, BI dashboards, and executive reporting.
 
