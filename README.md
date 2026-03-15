@@ -26,16 +26,17 @@ Selected Projects
 
 🟢 AI Dispatch Decision System
 
-Applied AI system that simulates and monitors a pharmacy delivery network and produces operational dispatch decisions based on system state and risk evaluation.
+AI-powered logistics decision system that simulates a pharmacy delivery network, evaluates operational risk, and generates dispatch recommendations using state vector modeling and an interactive Streamlit dashboard.
 
 Highlights:
 
-• Synthetic delivery network simulation  
-• Operational metrics and KPI monitoring  
-• System state vector (CEI, CLI, NODI, WBI)  
-• Risk scoring model for operational overload detection  
-• Dispatch decision engine generating operational recommendations  
-• Interactive monitoring dashboard (Streamlit)
+- Synthetic delivery network simulation
+- Operational metrics and KPI monitoring
+- System state vector (CEI, CLI, NODI, WBI)
+- Risk scoring and confidence evaluation models
+- Dispatch decision engine
+- AI-style operational insight generation
+- Interactive Streamlit dashboard with multiple UI themes
 
 https://github.com/smakov-data/ai-pharmacy-dispatch-system
 
