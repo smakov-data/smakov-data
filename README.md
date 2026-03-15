@@ -28,7 +28,7 @@ Selected Projects
 
 AI-powered logistics decision system that simulates a pharmacy delivery network, evaluates operational risk, and generates dispatch recommendations using state vector modeling and an interactive Streamlit dashboard.
 
-Key Concepts Demonstrated
+Key Concepts Demonstrated:
 - Operational AI decision systems  
 - State vector modeling for system monitoring  
 - Risk scoring and confidence evaluation  
