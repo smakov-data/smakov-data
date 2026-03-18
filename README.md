@@ -1,4 +1,5 @@
 Hi, I’m Ruslan Smakov
+I specialize in building analytics and AI-driven systems that translate business problems into scalable data solutions.
 
 Analytics Consultant with 10+ years of experience delivering business-facing analytics and data enablement initiatives across enterprise environments.
 
