@@ -24,8 +24,18 @@ I build analytics systems that connect business strategy with reliable, producti
 
 Selected Projects
 
-🟢 AI Dispatch Decision System
+🟢 AI Sales Call Intelligence
+AI pipeline that extracts structured insights (company, objections, intent) from sales call transcripts using LLM (phi3), with normalization, storage, and analytics.
 
+Key Concepts:
+- LLM-based information extraction
+- Handling noisy model outputs (JSON parsing)
+- Data normalization into business categories
+- End-to-end pipeline (LLM → DB → Analytics)
+
+https://github.com/smakov-data/ai-sales-call-intelligence
+
+🟢 AI Dispatch Decision System
 AI-powered logistics decision system that simulates a pharmacy delivery network, evaluates operational risk, and generates dispatch recommendations using state vector modeling and an interactive Streamlit dashboard.
 
 Key Concepts Demonstrated:
