@@ -26,7 +26,7 @@ I build analytics systems that connect business strategy with reliable, producti
 Selected Projects
 
 🟢 AI Sales Call Intelligence
-AI pipeline that extracts structured insights (company, objections, intent) from sales call transcripts using LLM (phi3), with normalization, storage, and analytics.
+AI pipeline that converts unstructured sales calls into structured business signals (objections, intent, company insights) using LLM (phi3), with normalization, storage, and analytics.
 
 Key Concepts:
 - LLM-based information extraction
