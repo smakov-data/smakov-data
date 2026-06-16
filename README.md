@@ -7,20 +7,20 @@ I specialize in translating complex business requirements into structured KPI fr
 
 Core Expertise:
 
-• Snowflake & dbt Analytics Engineering
-• SQL-Centric Data Warehousing (Star Schema, Fact & Dimension Modeling)
-• Business Intelligence & KPI Strategy
-• Reporting Layer Architecture & Metric Standardization
-• Data Validation, Reconciliation & Metric Governance
+- Snowflake & dbt Analytics Engineering
+- SQL-Centric Data Warehousing (Star Schema, Fact & Dimension Modeling)
+- Business Intelligence & KPI Strategy
+- Reporting Layer Architecture & Metric Standardization
+_ Data Validation, Reconciliation & Metric Governance
 
 What I Deliver:
 
-• Design of structured KPI frameworks aligned with business objectives  
-• Development of analytics-ready data marts for BI and executive reporting  
-• Implementation of SQL-driven warehouse models supporting operational analytics  
-• Construction of Bronze–Silver–Gold Lakehouse pipelines for BI consumption  
-• Data quality controls ensuring metric consistency and reporting reliability  
-• Alignment between business stakeholders and technical data teams  
+- Design of structured KPI frameworks aligned with business objectives  
+- Development of analytics-ready data marts for BI and executive reporting  
+- Implementation of SQL-driven warehouse models supporting operational analytics  
+- Construction of Bronze–Silver–Gold Lakehouse pipelines for BI consumption  
+- Data quality controls ensuring metric consistency and reporting reliability  
+- Alignment between business stakeholders and technical data teams  
 
 I build analytics systems that connect business strategy with reliable, production-ready data foundations.
 
@@ -31,13 +31,13 @@ Snowflake • dbt • Star Schema • CI/CD
 End-to-end analytics engineering project built with Snowflake, dbt, dimensional modeling, data quality testing, and GitHub Actions CI/CD.
 
 Highlights:
-• Snowflake data warehouse
-• dbt transformations and testing
-• Star schema design
-• Fact and dimension modeling
-• Business-focused data marts
-• Automated CI/CD deployment pipelines
-• Analytics-ready datasets for BI reporting
+- Snowflake data warehouse
+- dbt transformations and testing
+- Star schema design
+- Fact and dimension modeling
+- Business-focused data marts
+- Automated CI/CD deployment pipelines
+- Analytics-ready datasets for BI reporting
 
 https://github.com/smakov-data/retail-analytics-warehouse
 
