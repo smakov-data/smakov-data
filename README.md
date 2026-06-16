@@ -25,6 +25,20 @@ I build analytics systems that connect business strategy with reliable, producti
 
 Selected Projects
 
+🟢 Retail Analytics Warehouse
+End-to-end analytics engineering project built with Snowflake, dbt, dimensional modeling, data quality testing, and GitHub Actions CI/CD.
+
+Highlights:
+• Snowflake data warehouse
+• dbt transformations and testing
+• Star schema design
+• Fact and dimension modeling
+• Business-focused data marts
+• Automated CI/CD deployment pipelines
+• Analytics-ready datasets for BI reporting
+
+https://github.com/smakov-data/retail-analytics-warehouse
+
 🟢 AI Sales Call Intelligence
 AI pipeline that converts unstructured sales calls into structured business signals (objections, intent, company insights) using LLM (phi3), with normalization, storage, and analytics.
 
