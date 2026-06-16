@@ -6,11 +6,12 @@ Analytics Consultant with 10+ years of experience delivering business-facing ana
 I specialize in translating complex business requirements into structured KPI frameworks, scalable data models, and executive-ready reporting layers. My focus is not just building datasets — but designing analytics environments that drive measurable operational impact.
 
 Core Expertise:
-• Business Intelligence & KPI Strategy  
-• SQL-Centric Data Warehousing (Star Schema, Fact & Dimension Modeling)  
-• Reporting Layer Architecture & Metric Standardization  
-• Databricks Lakehouse (Bronze–Silver–Gold)  
-• Data Validation, Reconciliation & Metric Governance  
+
+• Snowflake & dbt Analytics Engineering
+• SQL-Centric Data Warehousing (Star Schema, Fact & Dimension Modeling)
+• Business Intelligence & KPI Strategy
+• Reporting Layer Architecture & Metric Standardization
+• Data Validation, Reconciliation & Metric Governance
 
 What I Deliver:
 
@@ -25,7 +26,8 @@ I build analytics systems that connect business strategy with reliable, producti
 
 Selected Projects
 
-🟢 Retail Analytics Warehouse
+📊 Retail Analytics Warehouse
+Snowflake • dbt • Star Schema • CI/CD
 End-to-end analytics engineering project built with Snowflake, dbt, dimensional modeling, data quality testing, and GitHub Actions CI/CD.
 
 Highlights:
@@ -39,7 +41,21 @@ Highlights:
 
 https://github.com/smakov-data/retail-analytics-warehouse
 
-🟢 AI Sales Call Intelligence
+📊 FMCG Databricks Lakehouse  
+Databricks • Spark • Delta Lake • Medallion
+End-to-end analytics platform designed to support KPI monitoring, BI dashboards, and executive reporting.
+
+Highlights:
+- Lakehouse architecture (Delta Lake, Bronze–Silver–Gold)
+- Batch ingestion of structured CSV data from AWS S3
+- Full and incremental data loads
+- Dimensional modeling (facts & dimensions)
+- Gold-layer analytical views for BI consumption
+
+https://github.com/smakov-data/fmcg-databricks-lakehouse
+
+🤖 AI Sales Call Intelligence
+LLM • NLP • AI
 AI pipeline that converts unstructured sales calls into structured business signals (objections, intent, company insights) using LLM (phi3), with normalization, storage, and analytics.
 
 Key Concepts:
@@ -50,7 +66,8 @@ Key Concepts:
 
 https://github.com/smakov-data/ai-sales-call-intelligence
 
-🟢 AI Dispatch Decision System
+🤖 AI Dispatch Decision System
+Simulation • AI Decision Making
 AI-powered logistics decision system that simulates a pharmacy delivery network, evaluates operational risk, and generates dispatch recommendations using state vector modeling and an interactive Streamlit dashboard.
 
 Key Concepts Demonstrated:
@@ -64,19 +81,7 @@ Key Concepts Demonstrated:
 
 https://github.com/smakov-data/ai-pharmacy-dispatch-system
 
-🟢 FMCG Databricks Lakehouse  
-End-to-end analytics platform designed to support KPI monitoring, BI dashboards, and executive reporting.
-
-Highlights:
-- Lakehouse architecture (Delta Lake, Bronze–Silver–Gold)
-- Batch ingestion of structured CSV data from AWS S3
-- Full and incremental data loads
-- Dimensional modeling (facts & dimensions)
-- Gold-layer analytical views for BI consumption
-
-https://github.com/smakov-data/fmcg-databricks-lakehouse
-
-🟢 SQL Retail Data Warehouse  
+🔹 SQL Retail Data Warehouse  
 SQL-centric analytics data warehouse designed for sales analytics and reporting use cases.
 
 Highlights:
