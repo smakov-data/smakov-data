@@ -26,7 +26,7 @@ I build analytics systems that connect business strategy with reliable, producti
 
 Selected Projects
 
-📊 Retail Analytics Warehouse
+📂 Retail Analytics Warehouse
 Snowflake • dbt • Star Schema • CI/CD
 End-to-end analytics engineering project built with Snowflake, dbt, dimensional modeling, data quality testing, and GitHub Actions CI/CD.
 
@@ -41,7 +41,7 @@ Highlights:
 
 https://github.com/smakov-data/retail-analytics-warehouse
 
-📊 FMCG Databricks Lakehouse  
+📂 FMCG Databricks Lakehouse  
 Databricks • Spark • Delta Lake • Medallion
 End-to-end analytics platform designed to support KPI monitoring, BI dashboards, and executive reporting.
 
@@ -54,7 +54,7 @@ Highlights:
 
 https://github.com/smakov-data/fmcg-databricks-lakehouse
 
-🤖 AI Sales Call Intelligence
+📂 AI Sales Call Intelligence
 LLM • NLP • AI
 AI pipeline that converts unstructured sales calls into structured business signals (objections, intent, company insights) using LLM (phi3), with normalization, storage, and analytics.
 
@@ -66,7 +66,7 @@ Key Concepts:
 
 https://github.com/smakov-data/ai-sales-call-intelligence
 
-🤖 AI Dispatch Decision System
+📂 AI Dispatch Decision System
 Simulation • AI Decision Making
 AI-powered logistics decision system that simulates a pharmacy delivery network, evaluates operational risk, and generates dispatch recommendations using state vector modeling and an interactive Streamlit dashboard.
 
