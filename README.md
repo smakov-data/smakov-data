@@ -24,6 +24,7 @@ What I Deliver:
 
 I build analytics systems that connect business strategy with reliable, production-ready data foundations.
 
+---
 Selected Projects
 
 📂 Retail Analytics Warehouse
@@ -41,6 +42,8 @@ Highlights:
 
 https://github.com/smakov-data/retail-analytics-warehouse
 
+-
+
 📂 FMCG Databricks Lakehouse  
 Databricks • Spark • Delta Lake • Medallion
 End-to-end analytics platform designed to support KPI monitoring, BI dashboards, and executive reporting.
@@ -54,6 +57,8 @@ Highlights:
 
 https://github.com/smakov-data/fmcg-databricks-lakehouse
 
+-
+
 📂 AI Sales Call Intelligence
 LLM • NLP • AI
 AI pipeline that converts unstructured sales calls into structured business signals (objections, intent, company insights) using LLM (phi3), with normalization, storage, and analytics.
@@ -65,6 +70,8 @@ Key Concepts:
 - End-to-end pipeline (LLM → DB → Analytics)
 
 https://github.com/smakov-data/ai-sales-call-intelligence
+
+-
 
 📂 AI Dispatch Decision System
 Simulation • AI Decision Making
@@ -81,7 +88,9 @@ Key Concepts Demonstrated:
 
 https://github.com/smakov-data/ai-pharmacy-dispatch-system
 
-🔹 SQL Retail Data Warehouse  
+-
+
+📂 SQL Retail Data Warehouse  
 SQL-centric analytics data warehouse designed for sales analytics and reporting use cases.
 
 Highlights:
@@ -92,6 +101,7 @@ Highlights:
 
 https://github.com/smakov-data/sql-retail-dwh
 
+---
 💼 Professional Background
 
 Background includes supporting enterprise analytics and data platforms across large-scale retail environments, working closely with data engineers on ingestion pipelines, data models, and data quality validation for reporting and analytics.
