@@ -42,7 +42,7 @@ Highlights:
 
 https://github.com/smakov-data/retail-analytics-warehouse
 
--
+/
 
 📂 FMCG Databricks Lakehouse  
 Databricks • Spark • Delta Lake • Medallion
@@ -57,7 +57,7 @@ Highlights:
 
 https://github.com/smakov-data/fmcg-databricks-lakehouse
 
--
+/
 
 📂 AI Sales Call Intelligence
 LLM • NLP • AI
@@ -71,7 +71,7 @@ Key Concepts:
 
 https://github.com/smakov-data/ai-sales-call-intelligence
 
--
+/
 
 📂 AI Dispatch Decision System
 Simulation • AI Decision Making
@@ -88,7 +88,7 @@ Key Concepts Demonstrated:
 
 https://github.com/smakov-data/ai-pharmacy-dispatch-system
 
--
+/
 
 📂 SQL Retail Data Warehouse  
 SQL-centric analytics data warehouse designed for sales analytics and reporting use cases.
